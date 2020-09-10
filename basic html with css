@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang = "en us">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Style Sheets With Relative Paths</title>
+</head>
+
+<body>
+    <header>
+        <h1>Student BIO</h1>
+    </header>
+
+<div>
+    <section>
+        <h2>Ryan Stout</h2>
+        <img src = "htts://placehold.it/200x200" alt = "Ryan Stout" >
+        <p>My name is Ryan Stout, I am 21 years old who loves to cook,run, and bake. In my free time I like to hang out with my friends and have been interested in computers since I waas 10 years old. I am currently going to Oakland University to pursue my Computer Science degree in Engineering. </p>
+    </section>
+    <section>
+        <h2>Contact Info: My number is 586-854-2383</h2>
+        <u1>
+            <l1><strong>Email:</strong> <a href  = "rstout039@gmail.com"></a></l1>
+            <l1><strong>Github:</strong> <a href = "git@github.com:rstout039/coding.git"></a></l1>
+            <l1><strong>Portfolio:</strong> <a href = ""></a></l1>
+        </u1>
+    </section>
+</div>    
+</body>
+</html>
